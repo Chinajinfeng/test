@@ -2,4 +2,6 @@
 
 phpinfo();
 
+system.out.pringln("abc");
+
 ?>
